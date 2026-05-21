@@ -1,5 +1,5 @@
 - Hi, I’m @Arrenteks
-- I'm a Student of Games and Media, Game Developer and Game Master.
+- I'm a Student of Games and Media, Game Development and Game Design.
 - Language Focus: C#, C++
 
 <!---
